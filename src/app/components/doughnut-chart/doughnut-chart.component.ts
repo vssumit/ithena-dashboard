@@ -48,7 +48,7 @@ export class DoughnutChartComponent implements OnInit, OnChanges {
             display: false,
           },
           tooltip: {
-            enabled: false,
+            enabled: true,
           },
         },
       },
